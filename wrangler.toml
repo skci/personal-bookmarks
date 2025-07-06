@@ -3,7 +3,7 @@
 # https://developers.cloudflare.com/workers/wrangler/configuration/
 name = "personal-bookmarks"
 compatibility_date = "2025-07-05"
-main = "./build/server/index.mjs"
+main = "./build/server/index.js"
 
 [vars]
 MY_VAR = "my-variable"
